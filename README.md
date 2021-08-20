@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](<div class="tenor-gif-embed" data-postid="12701684" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/wave-hi-hello-gif-12701684">Wave Hi GIF</a>from <a href="https://tenor.com/search/wave-gifs">Wave GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+![](https://tenor.com/view/wave-hi-hello-gif-12701684)
 
 <!--
 **Snir-Dekel/Snir-Dekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
