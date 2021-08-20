@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 ### - ⚡ Fun fact: It is very difficult to beat a person who loves what he does.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel&theme=algolia)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia )
-
+![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
+![](https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif)
 
 ![](https://wakatime.com/share/@Snir_Dekel/23ace0e7-145f-4515-a2bc-10684ba2cbdc.svg)
 ![](https://wakatime.com/share/@Snir_Dekel/7dfb559b-3b02-42cb-8e8f-87736e5ea4f0.svg)
