@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snir-Dekel)](https://github.com/Snir-Dekel/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Snir_Dekel)](https://github.com/Snir-Dekel/github-readme-stats)
-[![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)
+Time I worked on my website: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)
