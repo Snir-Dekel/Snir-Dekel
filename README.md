@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ### - 💬 Ask me about Full Stack Development, Web Security, Python, JS, SQL, Java.
 ### - 📫 How to reach me: snirdekel101@gmail.com.
 ### - ⚡ Fun fact: It is very difficult to beat a person who loves what he does.
-
+<img height="32" width="32" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel&theme=algolia)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
 ![](https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif)
