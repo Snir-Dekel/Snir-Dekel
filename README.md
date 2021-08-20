@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Snir-Dekel&theme=algolia)](https://git.io/streak-stats)
 <!--
 **Snir-Dekel/Snir-Dekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
