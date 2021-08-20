@@ -1,4 +1,4 @@
-# Hi there <img height="45" style="margin: -7px 0px -4px 3px;" width="45" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" />
+# Hi there <img height="45" width="45" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" />
 
 <!--
 **Snir-Dekel/Snir-Dekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
