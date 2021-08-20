@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<img src="https://c.tenor.com/3FFF1Q6-IT4AAAAC/wave-hi.gif" width="50px"/>
 
-end
+
 <!--
 **Snir-Dekel/Snir-Dekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
