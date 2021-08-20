@@ -1,15 +1,6 @@
 ### Hi there 👋
-![](https://tenor.com/view/wave-hi-hello-gif-12701684)
-start
-<!-- ### Hello World! <img src="wave.gif" width="25px"/> -->
 
-<p align="left">
-
-# Hi, I'm Yon! <img src="wave.gif" width="50px"/>
-
-<!--### ⚙️ Current Big Project: [Auto Crypto Trader](https://github.com/YonLiud/Auto-Crypto-Trader) -->
-
-
+<img src="wave.gif" width="50px"/>
 
 end
 <!--
