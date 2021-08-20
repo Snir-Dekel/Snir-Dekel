@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://tenor.com/view/wave-hi-hello-gif-12701684" width="50px"/>
+<img src="https://c.tenor.com/3FFF1Q6-IT4AAAAC/wave-hi.gif" width="50px"/>
 
 end
 <!--
