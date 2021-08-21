@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 ```java
 public class Snir {
 ```
+```javascript
+const age;
+```
 <!-- - 🔭 I’m currently working on ... -->
 ### - 🌱 I’m currently learning ReactJS.
 ### - 👯 I’m looking to collaborate on any projects related to Full Stack Development or Python.
