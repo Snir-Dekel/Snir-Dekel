@@ -5,18 +5,18 @@
 
 Here are some ideas to get you started:
 -->
-```java
+```
 public class Snir {
-```
-```javascript
+
+
 const age;
-```
-```python
+
+
  def __init__(self):
     self.age = 18
     self.name = "Snir Dekel"
-```
-```javascript
+
+
   get languages() {
     return {
       "python": "A Year",
@@ -25,8 +25,8 @@ const age;
       "Java": "Two Years"
     }
   }
-```
-```MySQL
+
+
 CREATE TABLE interests (
     python_automation VARCHAR(255),
     artificial_intelligence VARCHAR(255),
@@ -36,8 +36,8 @@ CREATE TABLE interests (
 );
 
 }
-```
-```java
+
+
 Programmer snir = new Snir()
 ```
 <!-- - 🔭 I’m currently working on ... -->
