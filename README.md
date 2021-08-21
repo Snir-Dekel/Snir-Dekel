@@ -26,6 +26,17 @@ const age;
     }
   }
 ```
+```MySQL
+CREATE TABLE interests (
+    python_automation VARCHAR(255),
+    artificial_intelligence VARCHAR(255),
+    full_stack_development VARCHAR(255),
+    web_security VARCHAR(255),
+    linux VARCHAR(255)
+);
+
+}
+```
 <!-- - 🔭 I’m currently working on ... -->
 ### - 🌱 I’m currently learning ReactJS.
 ### - 👯 I’m looking to collaborate on any projects related to Full Stack Development or Python.
