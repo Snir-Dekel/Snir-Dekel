@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 ```java
 public class Snir {
-```
 ```javascript
 const age;
 ```
