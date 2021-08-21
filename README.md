@@ -16,6 +16,16 @@ const age;
     self.age = 18
     self.name = "Snir Dekel"
 ```
+```javascript
+  get languages() {
+    return {
+      "python": "A Year",
+      "JavaScript": "Half A Year",
+      "MySQL": "Half A Year",
+      "Java": "Two Years"
+    }
+  }
+```
 <!-- - 🔭 I’m currently working on ... -->
 ### - 🌱 I’m currently learning ReactJS.
 ### - 👯 I’m looking to collaborate on any projects related to Full Stack Development or Python.
