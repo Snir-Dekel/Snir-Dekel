@@ -2,8 +2,9 @@
 
 <!--
 **Snir-Dekel/Snir-Dekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-```python
-print("test")
+```ruby
+this = "Ruby Code"
+puts "This is #{this}"
 ```
 Here are some ideas to get you started:
 -->
