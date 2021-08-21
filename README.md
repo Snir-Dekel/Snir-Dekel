@@ -11,6 +11,11 @@ public class Snir {
 ```javascript
 const age;
 ```
+```python
+ def __init__(self):
+    self.age = 18
+    self.name = "Snir Dekel"
+```
 <!-- - 🔭 I’m currently working on ... -->
 ### - 🌱 I’m currently learning ReactJS.
 ### - 👯 I’m looking to collaborate on any projects related to Full Stack Development or Python.
