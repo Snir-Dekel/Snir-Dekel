@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-![image](https://user-images.githubusercontent.com/66528853/130450118-c3f78174-93e9-4c9d-b248-ffe40a300740.png)
-
+![image](https://user-images.githubusercontent.com/66528853/130450154-c24dd23f-aac2-43dd-8c47-73aaede5b3d2.png)
 <!-- - 🔭 I’m currently working on ... -->
 ### - 🌱 I’m currently learning ReactJS.
 ### - 👯 I’m looking to collaborate on any projects related to Full Stack Development or Python.
