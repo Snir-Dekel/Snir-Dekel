@@ -6,7 +6,9 @@
 Here are some ideas to get you started:
 -->
 ![image](https://user-images.githubusercontent.com/66528853/130333160-cc0b6730-1a18-4c4c-b018-0ff0fe976d99.png)
-
+```js
+const name;
+```
 <!-- - 🔭 I’m currently working on ... -->
 ### - 🌱 I’m currently learning ReactJS.
 ### - 👯 I’m looking to collaborate on any projects related to Full Stack Development or Python.
