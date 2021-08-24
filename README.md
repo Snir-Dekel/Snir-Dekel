@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ![github_pic](https://user-images.githubusercontent.com/66528853/130450567-fe52a92c-71ac-4ad2-8923-223e77ed2643.png)
-![image](https://user-images.githubusercontent.com/66528853/130692346-eacd653a-f7c9-4d56-8136-d7ff134af54b.png)
+![Untitled-1](https://user-images.githubusercontent.com/66528853/130692471-c20dfd58-992a-4cd7-a7c5-2ee59a318eb4.png)
 
 <!-- - 🔭 I’m currently working on ... -->
 ### - 🌱 I’m currently learning ReactJS.
