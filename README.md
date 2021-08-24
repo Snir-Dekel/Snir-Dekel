@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![](https://wakatime.com/share/@Snir_Dekel/23ace0e7-145f-4515-a2bc-10684ba2cbdc.svg)
 
 ![](https://wakatime.com/share/@Snir_Dekel/7dfb559b-3b02-42cb-8e8f-87736e5ea4f0.svg)
-# Total Time I worked on my website: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)
+# Total time I worked on my website: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)
 
 <hr>
 
