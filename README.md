@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 # Total time I worked on my website: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)
 
 <hr>
-<p font-size="75" align="center">
+<p font-size="75px" align="center">
    Total time I worked on my python scripts: 
 </p>
 
