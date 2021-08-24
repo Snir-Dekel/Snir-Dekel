@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 -->
+```js
+let age;
+```
 ![github_pic](https://user-images.githubusercontent.com/66528853/130450567-fe52a92c-71ac-4ad2-8923-223e77ed2643.png)
 
 <!-- - 🔭 I’m currently working on ... -->
