@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <hr>
 <p align="center">
-   # Toal time I worked on my python scripts: 
+   # Total time I worked on my python scripts: 
 </p>
 
 [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender.svg)](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender)
