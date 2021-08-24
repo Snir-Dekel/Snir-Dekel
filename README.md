@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-![github_pic](https://user-images.githubusercontent.com/66528853/130450567-fe52a92c-71ac-4ad2-8923-223e77ed2643.png)
-![Untitled-1](https://user-images.githubusercontent.com/66528853/130692471-c20dfd58-992a-4cd7-a7c5-2ee59a318eb4.png)
+![snir class](https://user-images.githubusercontent.com/66528853/130693387-b5acf4cd-ccc3-4816-b87d-108144b8feba.png)
+
 
 <!-- - 🔭 I’m currently working on ... -->
 ### - 🌱 I’m currently learning ReactJS.
