@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 # Total time I worked on my website: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)
 
 <hr>
-<p font-size="75px" align="center">
-   Total time I worked on my python scripts: 
-</p>
 
-[![wakatime](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender.svg)](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender)
+![](https://wakatime.com/share/@Snir_Dekel/7dfb559b-3b02-42cb-8e8f-87736e5ea4f0.svg)
+# Time I worked on my website: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)
+
+# Time I worked on my python scripts: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender.svg)](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender)
