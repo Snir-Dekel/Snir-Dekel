@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### - 💬 Ask me about Full Stack Development, Web Security, Python, JS, SQL, Java.
 ### - 📫 How to reach me: snirdekel101@gmail.com.
 ### - ⚡ Fun fact: If you do what you love, you'll never work a day in your life.
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel&theme=algolia)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true)
 ### Real time graph
 ![](https://wakatime.com/share/@Snir_Dekel/23ace0e7-145f-4515-a2bc-10684ba2cbdc.svg)
 
