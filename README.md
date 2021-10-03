@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 <!-- - 🔭 I’m currently working on ... -->
-### - 🌱 I’m currently learning ReactJS and Bootstrap.
+### - 🌱 I’m currently learning Flask.
 ### - 👯 I’m looking to collaborate on any projects related to Full Stack Development or Python.
 ### - 🤔 I’m looking for help with ReactJS.
 ### - 💬 Ask me about Full Stack Development, Web Security, Python, JS, SQL, Java.
