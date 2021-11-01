@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-![snir class](https://user-images.githubusercontent.com/66528853/130693387-b5acf4cd-ccc3-4816-b87d-108144b8feba.png)
+![snir class](https://user-images.githubusercontent.com/66528853/139700100-55da642f-d5c1-4628-b8be-b137a97d926a.png)
 
 
 <!-- - 🔭 I’m currently working on ... -->
