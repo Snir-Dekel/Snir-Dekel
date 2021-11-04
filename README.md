@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
 
 
-```{r, engine='bash', count_lines}
-wc -l en_US.twitter.txt
-```
+![image](https://user-images.githubusercontent.com/66528853/140401379-e4308df5-6895-4c46-8882-c879bc33c773.png)
+
 
 <img src="https://camo.githubusercontent.com/cb36ffb8afc023f3dc7b324ac8963a109e7651cf05343500cbe152e1ef868a6a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d536e69722d44656b656c267374796c653d706c6173746963" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Snir-Dekel&amp;style=plastic" style="max-width: 100%;width: 20%;">
 
