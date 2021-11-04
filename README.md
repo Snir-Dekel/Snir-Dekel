@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel&theme=algolia)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
 
-![whoami](https://user-images.githubusercontent.com/66528853/140403850-558abfeb-9a9d-47a3-83bf-ca9c1e9ade24.png)
 
 
 
