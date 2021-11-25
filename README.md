@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 
 <!-- - 🔭 I’m currently working on ... -->
-### - 🌱 I’m currently learning Flask.
+### - 🌱 I’m currently learning Tensorflow with python.
 ### - 👯 I’m looking to collaborate on any projects related to Full Stack Development or Python.
-### - 🤔 I’m looking for help with ReactJS.
+<!-- ### - 🤔 I’m looking for help with ReactJS. -->
 ### - 💬 Ask me about Full Stack Development, Web Security, Python, JS, SQL, Java.
 ### - 📫 How to reach me: snirdekel101@gmail.com.
 ### - ⚡ Fun fact: If you do what you love, you'll never work a day in your life.
