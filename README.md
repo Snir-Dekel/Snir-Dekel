@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 ![](https://wakatime.com/share/@Snir_Dekel/7dfb559b-3b02-42cb-8e8f-87736e5ea4f0.svg)
 # Total time I worked on my website: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)
+# Total time I worked on machine learning (AI): [![wakatime](<img class="" src="https://wakatime.com/badge/user/b4ec8eb1-ca9f-4bc3-9335-61516e7e0c37/project/b17349d1-f817-4626-9c24-6c8274318b4f.svg">)
 
 <hr>
 
