@@ -6,9 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-![snir class](https://user-images.githubusercontent.com/66528853/139701538-788a944b-30bd-46c6-a70d-f59e2d86e028.png)
-
-
 <!-- - 🔭 I’m currently working on ... -->
 ### - 🌱 I’m currently learning Tensorflow with python.
 ### - 👯 I’m looking to collaborate on any projects related to Full Stack Development or Python👩‍💻
@@ -20,7 +17,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
 
 # Some Of Tools And Technologies I Use
-
 
 ![tensorflow](https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465)
 ![mysql](https://camo.githubusercontent.com/a4a4a017a5d519d7c4ce2a3cd3d2194fb7af4b1ca424850784565007c2acc7d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
@@ -48,6 +44,7 @@ Here are some ideas to get you started:
 ![jquery](https://camo.githubusercontent.com/15b7da9c5e50455ef7c50a5d642afad7ab8d752e575010116727c3865beb026d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465)
 
 
+![snir class](https://user-images.githubusercontent.com/66528853/139701538-788a944b-30bd-46c6-a70d-f59e2d86e028.png)
 
 
 <img src="https://camo.githubusercontent.com/cb36ffb8afc023f3dc7b324ac8963a109e7651cf05343500cbe152e1ef868a6a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d536e69722d44656b656c267374796c653d706c6173746963" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Snir-Dekel&amp;style=plastic" style="max-width: 100%;width: 20%;">
