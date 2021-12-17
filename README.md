@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on ... -->
-### - 🌱 I’m currently learning Tensorflow with python.
+### - 🕵️‍♂️ I’m currently learning Tensorflow with python.
 ### - 👯 I’m looking to collaborate on any projects related to Full Stack Development or Python👩‍💻
 <!-- ### - 🤔 I’m looking for help with ReactJS. -->
 ### - 💬 Ask me about anything listed below! and even about Web Security🔐
