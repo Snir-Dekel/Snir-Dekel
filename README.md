@@ -48,7 +48,10 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel&theme=algolia)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
   
-  
+ ```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 ```console
 $ whoami
 ```
