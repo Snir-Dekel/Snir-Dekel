@@ -49,12 +49,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
   
  ```diff
-+ this text is highlighted in green
-- this text is highlighted in red
+$ + whoami
 ```
-```console
-$ whoami
-```
+
   
 ![snir class](https://user-images.githubusercontent.com/66528853/139701538-788a944b-30bd-46c6-a70d-f59e2d86e028.png)
 
