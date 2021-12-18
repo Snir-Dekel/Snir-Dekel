@@ -1,5 +1,9 @@
 # Hi there! <img height="45" width="45" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" />
 
+```{r, engine='bash', code_block_name} ...
+whoami
+```
+
 <!--
 **Snir-Dekel/Snir-Dekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
