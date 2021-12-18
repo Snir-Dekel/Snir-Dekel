@@ -1,8 +1,6 @@
 # Hi there! <img height="45" width="45" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" />
 
-```console
-$ whoami
-```
+
 
 <!--
 **Snir-Dekel/Snir-Dekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,6 +47,11 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel&theme=algolia)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
+  
+  
+```console
+$ whoami
+```
   
 ![snir class](https://user-images.githubusercontent.com/66528853/139701538-788a944b-30bd-46c6-a70d-f59e2d86e028.png)
 
