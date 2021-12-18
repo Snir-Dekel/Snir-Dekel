@@ -1,7 +1,7 @@
 # Hi there! <img height="45" width="45" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" />
 
 ```{r, engine='bash', code_block_name} ...
-whoami
+$ whoami
 ```
 
 <!--
