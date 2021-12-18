@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### - ⚡ Fun fact: If you do what you love, you'll never work a day in your life.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel&theme=algolia)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
-
+<br>
 <h1 align="center"> Some Of The Tools And Technologies I Use<h1/>
 
 ![tensorflow](https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465)
