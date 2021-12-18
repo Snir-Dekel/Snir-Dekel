@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
   
 
-<span color="green">$<span/> **whoami**
+<span style="color:green">$<span/> **whoami**
 
 
   
