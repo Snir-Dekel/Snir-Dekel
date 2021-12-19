@@ -50,9 +50,9 @@ Here are some ideas to get you started:
   
 
 ```console
-Snir@github ~> whoami
+Snir@GitHub ~> whoami
 ```
-
+https://img.shields.io/static/v1?label=Programmer&message=Self-Taught&color=ffff00?&labelColor=blue
   
 ![snir class](https://user-images.githubusercontent.com/66528853/139701538-788a944b-30bd-46c6-a70d-f59e2d86e028.png)
 
