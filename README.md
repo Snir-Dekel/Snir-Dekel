@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel&theme=algolia)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
-[![pip packges](https://pypi.org/static/images/logo-large.6bdbb439.svg)](https://github.com/ellerbrock/open-source-badge/)
+[![pip packges](https://pypi.org/static/images/logo-large.6bdbb439.svg)](https://pypi.org/user/snirdekel/)
 
 
 ```console
@@ -57,7 +57,7 @@ Snir@GitHub ~> whoami
 
 <!-- ![self taught badge](https://img.shields.io/static/v1?label=Programmer&message=Self-Taught&color=ffff00?&labelColor=blue&style=for-the-badge) -->
 <!-- ![chrome extensions badge](https://img.shields.io/static/v1?label=Developed&message=Google%20chrome%20extensions&color=ffff00?&labelColor=blue&style=flat-square&logo=Google%20Chrome&logoColor=white) -->
-![snir class](https://pypi.org/user/snirdekel/)
+![snir class](https://user-images.githubusercontent.com/66528853/139701538-788a944b-30bd-46c6-a70d-f59e2d86e028.png)
 
 
 <img src="https://camo.githubusercontent.com/cb36ffb8afc023f3dc7b324ac8963a109e7651cf05343500cbe152e1ef868a6a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d536e69722d44656b656c267374796c653d706c6173746963" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Snir-Dekel&amp;style=plastic" style="max-width: 100%;width: 20%;">
