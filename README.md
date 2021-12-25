@@ -18,8 +18,13 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Some Of The Tools And Technologies I Use<h1/>
 
+
+[![pip packges](https://img.shields.io/static/v1?label=My%20pip%20packages&message=Link&color=orange?&labelColor=blue&style=for-the-badge&logo=python&logoColor=orange)](https://pypi.org/user/snirdekel/)
+![chrome extensions badge](https://img.shields.io/static/v1?label=Developed&message=Google%20chrome%20extensions&color=ffff00?&labelColor=blue&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
+![discord bots](https://img.shields.io/static/v1?message=Discord%20bots&color=7289DA?style=for-the-badge&logo=discord&logoColor=white&label=Developed&style=for-the-badge)
+<hr>
+ 
 ![tensorflow](https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465)
-![discord bots](https://img.shields.io/badge/Discord%20bots-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![flask](https://camo.githubusercontent.com/68390254ad6054b8e98b68fbcae09a3b78751427686f3e003a33c2bbc913b14c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465)
 ![jupyter](https://camo.githubusercontent.com/75251632e9c74475dfb9c8a4f17b34792226384fe87ff456cb8603b4e94a15bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465)
 ![mysql](https://camo.githubusercontent.com/a4a4a017a5d519d7c4ce2a3cd3d2194fb7af4b1ca424850784565007c2acc7d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
@@ -54,9 +59,12 @@ Here are some ideas to get you started:
 Snir@GitHub ~> whoami
 ```
 
-![self taught badge](https://img.shields.io/static/v1?label=Programmer&message=Self-Taught&color=ffff00?&labelColor=blue&style=for-the-badge) 
-<!-- ![chrome extensions badge](https://img.shields.io/static/v1?label=Developed&message=Google%20chrome%20extensions&color=ffff00?&labelColor=blue&style=flat-square&logo=Google%20Chrome&logoColor=white) -->
-<!-- [![pip packges](https://pypi.org/static/images/logo-large.6bdbb439.svg)](https://pypi.org/user/snirdekel/) -->
+ 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?label=Programmer&message=Self-Taught&color=ffff00?&labelColor=blue&style=for-the-badge"/>
+</div>
+
+
 ![snir class](https://user-images.githubusercontent.com/66528853/139701538-788a944b-30bd-46c6-a70d-f59e2d86e028.png)
 
  
