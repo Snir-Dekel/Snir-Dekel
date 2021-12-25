@@ -78,7 +78,7 @@ Snir@GitHub ~> whoami
 # Total time I worked on my python scripts: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender.svg)](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender)
 -->
  
-<div style="align:center;font-size:1rem">
+<div align="center">
   
 | Topic | Total time | Description |
 | ----------- | ----------- | ----------- |
