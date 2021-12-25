@@ -4,7 +4,6 @@
 
 <!--
 **Snir-Dekel/Snir-Dekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 
@@ -16,7 +15,6 @@ Here are some ideas to get you started:
 ### - 📫 How to reach me: snirdekel101@gmail.com.
 ### - ⚡ Fun fact: If you do what you love, you'll never work a day in your life.
 
-<hr>
 
 <h1 align="center"> Some Of The Tools And Technologies I Use<h1/>
 
@@ -49,6 +47,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel&theme=algolia)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
+ 
 
 
 ```console
@@ -61,22 +60,21 @@ Snir@GitHub ~> whoami
 ![snir class](https://user-images.githubusercontent.com/66528853/139701538-788a944b-30bd-46c6-a70d-f59e2d86e028.png)
 
  
-<div align="center">Real Time Graphs</div>
 
 
- 
+
+# Real Time Graphs 
+
+ <!-- <h1 align="center">Real Time Graphs<h1/> -->
+
 ![](https://wakatime.com/share/@Snir_Dekel/23ace0e7-145f-4515-a2bc-10684ba2cbdc.svg)
 
 ![](https://wakatime.com/share/@Snir_Dekel/7dfb559b-3b02-42cb-8e8f-87736e5ea4f0.svg)
  <!--
 # Total time I worked on my website: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)
-
 <hr>
-
 # Total time I worked on machine learning (AI): <img src="https://wakatime.com/badge/user/b4ec8eb1-ca9f-4bc3-9335-61516e7e0c37/project/b17349d1-f817-4626-9c24-6c8274318b4f.svg">
-
 <hr>
-
 # Total time I worked on my python scripts: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender.svg)](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender)
 -->
  
@@ -88,8 +86,6 @@ Snir@GitHub ~> whoami
 | Website|[![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)| Secure website with Java backend and bootstrap frontend|
 | General Python Scripts|[![wakatime](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender.svg)](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender)| Python automations, small websites and more|
 Total coding time | [![wakatime](https://wakatime.com/badge/user/b4ec8eb1-ca9f-4bc3-9335-61516e7e0c37.svg)](https://wakatime.com/@b4ec8eb1-ca9f-4bc3-9335-61516e7e0c37) | Since Feb 15 2021
-</div>
-
- <div align="center"> 
- <img src="https://camo.githubusercontent.com/cb36ffb8afc023f3dc7b324ac8963a109e7651cf05343500cbe152e1ef868a6a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d536e69722d44656b656c267374796c653d706c6173746963" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Snir-Dekel&amp;style=plastic" style="max-width: 100%;width: 20%;" align="center">
-  </div>
+ 
+ <img src="https://camo.githubusercontent.com/cb36ffb8afc023f3dc7b324ac8963a109e7651cf05343500cbe152e1ef868a6a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d536e69722d44656b656c267374796c653d706c6173746963" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Snir-Dekel&amp;style=plastic" style="max-width: 100%;width: 20%;"> 
+ </div>
