@@ -77,8 +77,10 @@ Snir@GitHub ~> whoami
 
 # Total time I worked on my python scripts: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender.svg)](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender)
 -->
+ <center>
 | Topic      | Total time |
 | ----------- | ----------- |
 | Deep Learning (AI)|<img src="https://wakatime.com/badge/user/b4ec8eb1-ca9f-4bc3-9335-61516e7e0c37/project/b17349d1-f817-4626-9c24-6c8274318b4f.svg">|
 | Website|[![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)|
 | General Python Scripts|[![wakatime](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender.svg)](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender)|
+  </center>
