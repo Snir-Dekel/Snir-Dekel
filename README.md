@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 Snir@GitHub ~> whoami
 ```
 
-<!-- ![self taught badge](https://img.shields.io/static/v1?label=Programmer&message=Self-Taught&color=ffff00?&labelColor=blue&style=for-the-badge) -->
+![self taught badge](https://img.shields.io/static/v1?label=Programmer&message=Self-Taught&color=ffff00?&labelColor=blue&style=for-the-badge) 
 <!-- ![chrome extensions badge](https://img.shields.io/static/v1?label=Developed&message=Google%20chrome%20extensions&color=ffff00?&labelColor=blue&style=flat-square&logo=Google%20Chrome&logoColor=white) -->
 <!-- [![pip packges](https://pypi.org/static/images/logo-large.6bdbb439.svg)](https://pypi.org/user/snirdekel/) -->
 ![snir class](https://user-images.githubusercontent.com/66528853/139701538-788a944b-30bd-46c6-a70d-f59e2d86e028.png)
