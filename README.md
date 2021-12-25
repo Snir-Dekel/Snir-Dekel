@@ -85,7 +85,7 @@ Snir@GitHub ~> whoami
 | Deep Learning (AI)|<img src="https://wakatime.com/badge/user/b4ec8eb1-ca9f-4bc3-9335-61516e7e0c37/project/b17349d1-f817-4626-9c24-6c8274318b4f.svg">| <a href="https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery">Tensorflow with python</a>|
 | Website|[![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)| Secure website with Java backend and bootstrap frontend|
 | General Python Scripts|[![wakatime](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender.svg)](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender)| Python automations, small websites and more|
-Total coding time | [![wakatime](https://wakatime.com/badge/user/b4ec8eb1-ca9f-4bc3-9335-61516e7e0c37.svg)](https://wakatime.com/@b4ec8eb1-ca9f-4bc3-9335-61516e7e0c37) | Since Feb 15 2021
+Total Coding Time | [![wakatime](https://wakatime.com/badge/user/b4ec8eb1-ca9f-4bc3-9335-61516e7e0c37.svg)](https://wakatime.com/@b4ec8eb1-ca9f-4bc3-9335-61516e7e0c37) | Since Feb 15 2021
  
  <img src="https://camo.githubusercontent.com/cb36ffb8afc023f3dc7b324ac8963a109e7651cf05343500cbe152e1ef868a6a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d536e69722d44656b656c267374796c653d706c6173746963" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Snir-Dekel&amp;style=plastic" style="max-width: 100%;width: 20%;"> 
  </div>
