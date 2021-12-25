@@ -66,6 +66,7 @@ Snir@GitHub ~> whoami
 ![](https://wakatime.com/share/@Snir_Dekel/23ace0e7-145f-4515-a2bc-10684ba2cbdc.svg)
 
 ![](https://wakatime.com/share/@Snir_Dekel/7dfb559b-3b02-42cb-8e8f-87736e5ea4f0.svg)
+ <!--
 # Total time I worked on my website: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel.svg)](https://wakatime.com/badge/github/Snir-Dekel/Snir-Dekel)
 
 <hr>
@@ -73,7 +74,7 @@ Snir@GitHub ~> whoami
 # Total time I worked on machine learning (AI): <img src="https://wakatime.com/badge/user/b4ec8eb1-ca9f-4bc3-9335-61516e7e0c37/project/b17349d1-f817-4626-9c24-6c8274318b4f.svg">
 
 <hr>
-<!--
+
 # Total time I worked on my python scripts: [![wakatime](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender.svg)](https://wakatime.com/badge/github/Snir-Dekel/automatic-whatsapp-messages-sender)
 -->
 | Topic      | Total time |
