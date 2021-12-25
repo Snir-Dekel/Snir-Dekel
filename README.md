@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### - 📫 How to reach me: snirdekel101@gmail.com.
 ### - ⚡ Fun fact: If you do what you love, you'll never work a day in your life.
 
+<hr>
 
 <h1 align="center"> Some Of The Tools And Technologies I Use<h1/>
 
