@@ -71,7 +71,7 @@ Snir@GitHub ~> whoami
 
 
 
-# Real Time Graphs 
+# Real Time Graph
 
  <!-- <h1 align="center">Real Time Graphs<h1/> -->
 
