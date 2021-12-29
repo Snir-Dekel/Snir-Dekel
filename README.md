@@ -50,9 +50,12 @@ Here are some ideas to get you started:
 ![firebase](https://camo.githubusercontent.com/bac5c7f45fe7c116b5f8c9d61c4611b31f635301a841bf8dcf1b89b8fcfa4824/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6666636132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b)
 ![jquery](https://camo.githubusercontent.com/15b7da9c5e50455ef7c50a5d642afad7ab8d752e575010116727c3865beb026d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel&theme=algolia)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia)
- 
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Snir-Dekel&show_icons=true&theme=algolia" style="width:49%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Snir-Dekel&theme=algolia" style="width:49%">
 
 
 ```console
