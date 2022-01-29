@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 Snir@GitHub ~> whoami
 ```
 
-```
+```js
 function test() {
   console.log("A year and a half");
 }
