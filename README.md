@@ -62,7 +62,12 @@ Here are some ideas to get you started:
 Snir@GitHub ~> whoami
 ```
 ```javscript
-"A year and a half"
+ ```
+function test() {
+  console.log("A year and a half");
+}
+```
+
 ```
  
 <div align="center">
