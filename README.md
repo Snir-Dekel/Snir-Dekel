@@ -69,11 +69,11 @@ Snir@GitHub ~> whoami
 </div>
 
 
-![snir class](https://user-images.githubusercontent.com/66528853/139701538-788a944b-30bd-46c6-a70d-f59e2d86e028.png)
+![snir class](https://user-images.githubusercontent.com/66528853/151664913-e488b389-129e-4064-b8a9-19bc41ce7f42.png)
 
  
 
-
+ 
 
 # Real Time Graphs
 
