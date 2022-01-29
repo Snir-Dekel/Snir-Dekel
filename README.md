@@ -61,13 +61,11 @@ Here are some ideas to get you started:
 ```console
 Snir@GitHub ~> whoami
 ```
-```javscript
- ```
+
+```
 function test() {
   console.log("A year and a half");
 }
-```
-
 ```
  
 <div align="center">
