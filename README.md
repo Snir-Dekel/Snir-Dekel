@@ -62,11 +62,7 @@ Here are some ideas to get you started:
 Snir@GitHub ~> whoami
 ```
 
-```js
-function test() {
-  console.log("A year and a half");
-}
-```
+
  
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Programmer&message=Self-Taught&color=ffff00?&labelColor=blue&style=for-the-badge"/>
