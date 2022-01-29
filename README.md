@@ -61,7 +61,9 @@ Here are some ideas to get you started:
 ```console
 Snir@GitHub ~> whoami
 ```
-
+```javscript
+"A year and a half"
+```
  
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Programmer&message=Self-Taught&color=ffff00?&labelColor=blue&style=for-the-badge"/>
