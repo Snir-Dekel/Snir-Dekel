@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 [![pip packges](https://img.shields.io/static/v1?label=My%20pip%20packages&message=Link&color=orange?&labelColor=blue&style=for-the-badge&logo=python&logoColor=orange)](https://pypi.org/user/snirdekel/)
-![chrome extensions badge](https://img.shields.io/static/v1?label=Developed&message=Google%20chrome%20extensions&color=ffff00?&labelColor=blue&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
-![discord bots](https://img.shields.io/static/v1?message=Discord%20bots&color=7289DA?style=for-the-badge&logo=discord&logoColor=white&label=Developed&style=for-the-badge)
+![chrome extensions badge](https://img.shields.io/static/v1?label=Google%20chrome%20extensions&message=Javascript&color=ffff00?&labelColor=blue&style=for-the-badge&logo=Google%20Chrome&logoColor=white)
+![discord bots](https://img.shields.io/static/v1?message=Python&color=ff0000?style=for-the-badge&logo=discord&logoColor=white&label=Discord%20Bots&style=for-the-badge)
 <hr>
  
 ![tensorflow](https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465)
