@@ -70,9 +70,7 @@ Snir@GitHub ~> whoami
 </div>
 
 
-![snir class](https://user-images.githubusercontent.com/66528853/151664913-e488b389-129e-4064-b8a9-19bc41ce7f42.png)
-
- 
+![snir class](https://user-images.githubusercontent.com/66528853/173150483-c54ecd56-83a2-4375-9773-2fe50f23c690.png)
 
  
 
