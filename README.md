@@ -76,9 +76,9 @@ Snir@GitHub ~> whoami
 
  
 
-<!-- # Real Time Graphs -->
+# Real Time Graphs
 
- <h1 align="center">Real Time Graphs<h1/>
+<!--  <h1 align="center">Real Time Graphs<h1/> -->
 
 ![](https://wakatime.com/share/@Snir_Dekel/23ace0e7-145f-4515-a2bc-10684ba2cbdc.svg)
 
