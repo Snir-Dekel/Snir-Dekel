@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ###  🕵️‍♂️ I’m currently learning [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)👨‍💻
 <!-- ### ✅[Zero To Mastery Tensorflow Course](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery) -->
 <!-- ### ✅[Neural Networks for Computer Vision, Time Series Analysis, NLP, GANs, Reinforcement Learning](https://www.udemy.com/course/deep-learning-tensorflow-2/) -->
-Finished | Course
+Completed | Course
 :---:| ---
 ✅| [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 ✅| [Zero To Mastery Tensorflow Developer Course](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery)
