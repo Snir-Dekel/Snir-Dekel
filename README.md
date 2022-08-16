@@ -17,7 +17,6 @@ Finished | Course
 ✅| [Zero To Mastery Tensorflow Developer Course](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery)
 ✅| [Neural Networks for Computer Vision, Time Series Analysis, NLP, GANs, Reinforcement Learning](https://www.udemy.com/course/deep-learning-tensorflow-2/)
 ###  🤝 I’m looking to collaborate on any projects related to Full Stack Development or Machine Learning.
-<!-- ### - 🤔 I’m looking for help with ReactJS. -->
 ###  💬 Ask me about anything listed below! even about Web Security🔐
 ###  📫 How to reach me: snirdekel101@gmail.com.
 ###  ⚡ Fun fact: If you do what you love, you'll never work a day in your life.
