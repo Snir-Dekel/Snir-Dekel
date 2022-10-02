@@ -9,11 +9,12 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- ###  🕵️‍♂️ I’m currently learning [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)👨‍💻 -->
-###  I’m currently learning [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) 📝🔢
+###  I’m currently learning [The MOST in-depth look at neural network theory](https://www.udemy.com/course/data-science-deep-learning-in-python/)🕵️‍
 <!-- ### ✅[Zero To Mastery Tensorflow Course](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery) -->
 <!-- ### ✅[Neural Networks for Computer Vision, Time Series Analysis, NLP, GANs, Reinforcement Learning](https://www.udemy.com/course/deep-learning-tensorflow-2/) -->
 Completed | Course
 :---:| ---
+✅| [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
 ✅| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 ✅| [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 ✅| [Zero To Mastery Tensorflow Developer Course](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery)
