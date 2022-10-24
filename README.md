@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 Completed | Course
 :---:| ---
 ✅| [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
+✅| [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
 ✅| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 ✅| [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 ✅| [Zero To Mastery Tensorflow Developer Course](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery)
